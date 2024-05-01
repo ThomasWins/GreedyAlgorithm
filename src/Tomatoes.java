@@ -1,8 +1,4 @@
-/* Thomas Winslow
-   Dr. Steinberg
-   COP3503 Spring 2024
-   Programming Assignment 3
-*/
+/* Thomas Winslow */
 
 import java.util.*;
 
