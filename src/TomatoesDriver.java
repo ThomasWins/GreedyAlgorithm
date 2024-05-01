@@ -1,9 +1,3 @@
-/* PLACE YOUR NAME HERE
-   Dr. Steinberg
-   COP3503 Spring 2024
-   Programming Assignment 3
-*/
-
 public class TomatoesDriver
 {
 	public static void main(String [] args)
